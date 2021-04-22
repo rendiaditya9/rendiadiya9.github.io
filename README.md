@@ -1,4 +1,4 @@
 # Prakerin
 
-Website Portofolio - Rendi Aditya / XI TKJ 2
-https://rendiaditya9/rendiaditya9.github.io
+Website Portofolio - Syahdan Hafiz Ashari / XI TKJ 1
+https://portofolio-pkl.netlify.app/
