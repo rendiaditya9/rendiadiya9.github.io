@@ -1,4 +1,4 @@
 # Prakerin
 
 Website Portofolio - Rendi Aditya / XI TKJ 2
-https://rendiaditya9.github.io/rendiaditya9.gihub.io
+https://rendiaditya9/rendiaditya9.gihub.io
